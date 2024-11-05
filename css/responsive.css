@@ -1,0 +1,441 @@
+/* ------------------------ 
+    Max Width 1366px 
+------------------------ */
+@media (max-width: 1366px) {
+
+}
+/* ------------------------ 
+    Max Width 1280px 
+------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ 
+    Max Width 1080px 
+------------------------ */
+@media (max-width: 1080px) {
+.banner .static_caption {
+    width: 50%;
+    left: 25%;
+}
+.the_story .heading {
+    top: 15px;
+    right: 23%;
+}
+.the_story .main_ul li {
+    width: 35%;
+}
+.the_story .main_ul li:nth-child(1) {
+    left: 12%;
+    top: 5%;
+}
+.the_story .main_ul li:nth-child(3) {
+    top: 70%;
+    left: 10%;
+}
+.the_story .main_ul li:nth-child(4) {
+    top: 40%;
+    right: 5%;
+}
+.what_people_say .grid_left p {
+    width: 80%;
+}
+}
+/* ------------------------ 
+    Max Width 1024px 
+------------------------ */
+@media (max-width: 1024px) {
+
+}
+/* ------------------------ 
+    Min Width 1000px 
+------------------------ */
+@media (min-width: 1000px) {
+
+}
+/* ------------------------ 
+    Max Width 966px 
+------------------------ */
+@media (max-width: 966px) {
+.heading h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+.the_story .main_img {
+    width: 35%;
+}
+.the_story .heading {
+    right: 20%;
+}
+.the_story .main_ul li {
+    width: 45%;
+}
+.the_story .main_ul li:nth-child(1) {
+    left: 3%;
+    top: 0%;
+}
+.the_story .main_ul li:nth-child(2) {
+    top: 30%;
+    left: -5%;
+}
+.the_story .main_ul li:nth-child(3) {
+    top: 60%;
+    left: -5%;
+}
+.the_story .main_ul li:nth-child(4) {
+    top: 30%;
+    right: -10%;
+}
+.the_story .main_ul li:nth-child(5) {
+    top: 60%;
+    right: -10%;
+}
+.what_people_say .grid_left p {
+    width: 100%;
+}
+.recent_news .grid_left #testi_slider .item .grid h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
+.footer .grid_left .form-control {
+    width:80%;
+}
+.footer .grid_left .btn_submit {
+    width:80%;
+}
+}
+/* ------------------------ 
+    Max Width 853px 
+------------------------ */
+@media (max-width: 853px) {
+.banner .static_caption {
+    width: 100%;
+    left: 0;
+}
+}
+/* ------------------------ 
+    Max Width 800px 
+------------------------ */
+@media (max-width: 800px) {
+.the_story .main_ul li.rsa .grid p {
+    margin-left:auto;
+}
+.the_story .main_ul li .grid p {
+    width: 90%;
+}
+}
+/* ------------------------ 
+    Min Width 769px 
+------------------------ */
+@media (min-width: 769px) {
+
+}
+/* ------------------------ 
+    Max Width 768px 
+------------------------ */
+@media (max-width: 768px) {
+.banner .static_caption .contain h1 {
+    font-size: 50px;
+}
+.banner .static_caption .contain form {
+    width: 40%;
+}
+.the_story .main_ul li .grid p {
+    width: 80%;
+}
+}
+/* ------------------------ 
+    Max Width 736px 
+------------------------ */
+@media (max-width: 736px) {
+.heading h1 {
+    letter-spacing:2px;
+}
+.product .heading {
+    text-align: center;
+}
+.product .heading h1 span {
+    display: inline-block;
+    margin-left:10px;
+}
+.what_people_say .grid_left {
+    text-align: center;
+}
+.what_people_say .grid_left h4 {
+    margin-top: 0;
+}
+.what_people_say .grid_right {
+    margin-top: 2em;
+}
+.what_people_say .grid_right .heading {
+    margin: 0;
+    text-align: center;
+}
+.what_people_say .grid_right .heading h1 {
+    word-spacing: 10px;
+}
+.what_people_say .grid_right .heading h1 span {
+    display: inline-block;
+}
+.recent_news .img_sec {
+    width: 25%;
+}
+.recent_news .grid_left #testi_slider {
+    width: 60%;
+    margin: auto;
+}
+.recent_news .grid_left {
+    margin-bottom: 5em;
+    text-align: center;
+}
+.recent_news .grid_left .heading {
+    text-align: center;
+}
+.recent_news .grid_left .heading h1 span {
+    display: inline-block;
+}
+.recent_news .grid_right {
+    padding-left: 15px;
+}
+.recent_news .grid_right .grid {
+    width: 70%;
+    margin: auto;
+}
+.footer .grid_left {
+    margin-bottom: 3em;
+}
+.footer .grid_left .form-control {
+    width: 40%;
+}
+.footer .grid_left .btn_submit {
+    width: 40%;
+}
+.footer .grid_right .copytight {
+    text-align: center;
+}
+}
+/* ------------------------ 
+    Max Width 720px 
+------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ 
+    Max Width 690px 
+------------------------ */
+@media (max-width: 690px) {
+.the_story .heading {
+    left: 0;
+    position: relative;
+    top: 0;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.the_story .heading h1 span {
+    display: inline-block;
+}
+.the_story .main_img {
+    float: left;
+    width:35%;
+}
+.the_story .main_ul {
+    position: relative;
+    width:65%;
+    float:left;
+}
+.the_story .main_ul li {
+    position: relative;
+    width:100%;
+    margin-bottom:1em;
+}
+.the_story .main_ul li:last-child {
+    margin-bottom:0;
+}
+.the_story .main_ul li.rsa {
+    text-align: left;
+}
+.the_story .main_ul li:nth-child(1),
+.the_story .main_ul li:nth-child(2),
+.the_story .main_ul li:nth-child(3),
+.the_story .main_ul li:nth-child(4),
+.the_story .main_ul li:nth-child(5) {
+    left: 0;
+    top: 0%;
+}
+.the_story .main_ul li.rsa .grid {
+    padding: 10px 10px 10px 50px;
+}
+.the_story .main_ul li.rsa .grid img {
+    left: 0;
+    right: 0;
+}
+.the_story .main_ul li.rsa .grid p {
+    width: 100%;
+}
+}
+/* ------------------------ 
+    Max Width 667px 
+------------------------ */
+@media (max-width: 667px) {
+
+}
+/* ------------------------ 
+    Max Width 640px 
+------------------------ */
+@media (max-width: 640px) {
+
+}
+/* ------------------------ 
+    Max Width 603px 
+------------------------ */
+@media (max-width: 603px) {
+
+}
+/* ------------------------ 
+    Max Width 600px 
+------------------------ */
+@media (max-width: 600px) {
+
+}
+/* ------------------------ 
+    Max Width 568px 
+------------------------ */
+@media (max-width: 568px) {
+.top_bar {
+    padding: 10px 0;
+    position: relative;
+}
+.banner .static_caption {
+    top: 15%;
+}
+.the_story .main_ul li span {
+    font-size: 30px;
+    line-height: 30px;
+}
+.recent_news .grid_left #testi_slider {
+    width: 100%;
+}
+.recent_news .grid_right .grid {
+    width: 100%;
+}
+.top_bar .menu_toggle.menu_toggle_i {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+}
+/* ------------------------ 
+    Max Width 533px 
+------------------------ */
+@media (max-width: 533px) {
+
+}
+/* ------------------------ 
+    Max Width 480px 
+------------------------ */
+@media (max-width: 480px) {
+.recent_news .img_bottom {
+    left:40%;
+}
+.product .itemsi li a img {
+    width: 100%;
+}
+}
+/* ------------------------ 
+    Max Width 414px 
+------------------------ */
+@media (max-width: 414px) {
+.top_bar .menu_toggle {
+    width: 40px;
+    height: 40px;
+    padding: 5px 10px;
+}
+.top_bar .logo {
+    max-width: 170px;
+}
+.heading h1 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.banner .static_caption .contain h1 {
+    font-size: 40px;
+    margin-bottom:10px;
+}
+.banner .static_caption .contain form {
+    width: 60%;
+}
+.the_story {
+    padding: 50px 0px;
+}
+.the_story .main_ul li {
+    margin-bottom: 0.2em;
+}
+.the_story .main_ul li .grid,
+.the_story .main_ul li.rsa .grid,
+.the_story .main_ul li.lsa .grid {
+    padding: 10px;
+}
+.the_story .main_ul li .grid img,
+.the_story .main_ul li.rsa .grid img,
+.the_story .main_ul li.lsa .grid img {
+    left: auto;
+    right: 0;
+    position: relative;
+    top: 0;
+}
+.the_story .main_ul li .grid p {
+    width: 100%;
+}
+.footer .grid_left .form-control {
+    width: 100%;
+}
+.footer .grid_left .btn_submit {
+    width: 100%;
+}
+.footer .grid_left .f_logo {
+    max-width: 170px;
+}
+}
+/* ------------------------ 
+    Max Width 375px 
+------------------------ */
+@media (max-width: 375px) {
+.the_story .main_img {
+    top: 25px;
+}
+.recent_news .grid_right .grid .img_sec2 .dates {
+    left: 20px;
+    bottom: -20px;
+}
+.recent_news .grid_right .grid .details {
+    padding: 10px;
+    margin-top: 1em;
+}
+.footer .grid_right .copytight span {
+    display: block;
+    margin-bottom: 10px;
+}
+.recent_news .img_sec {
+    width: 35%;
+    top: -25px;
+}
+}
+/* ------------------------ 
+    Max Width 320px 
+------------------------ */
+@media (max-width: 320px) {
+.banner .static_caption {
+    top: 5%;
+}
+.banner .static_caption .contain h1 {
+    font-size: 30px;
+}
+.banner .static_caption .contain form .form-control {
+    font-size: 14px;
+    line-height: 24px;
+}
+.banner .static_caption .contain form .submit {
+    font-size: 16px;
+    padding: 5px 15px;
+}
+}
